@@ -1,0 +1,1 @@
+# Weight Distributed QAOA
